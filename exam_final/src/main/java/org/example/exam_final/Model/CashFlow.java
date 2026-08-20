@@ -20,4 +20,4 @@ public abstract class CashFlow {
 
     public abstract String getType();
 }
-}
+
